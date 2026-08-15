@@ -5,6 +5,12 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E88E5?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-2E7D32?style=for-the-badge)
 
+
+
+https://github.com/user-attachments/assets/ec9d40aa-1bec-42ed-8732-37f940fea5a4
+
+
+
 An interactive **Sales & Customer Analytics Dashboard** developed in Microsoft Excel using **30,000 synthetic retail transactions**. The project transforms transactional data into an executive-friendly dashboard for analyzing sales performance, customer behavior, sports categories, product categories, orders, retention, and gender-based sales contribution.
 
 ---
@@ -12,7 +18,7 @@ An interactive **Sales & Customer Analytics Dashboard** developed in Microsoft E
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard Images/Decathlon_Sales_Customer_Analytics.png" alt="Decathlon Sales & Customer Analytics Dashboard" width="100%">
+  <img src="Dashboard Images/Decathlon Dashboard.png" alt="Decathlon Sales & Customer Analytics Dashboard" width="100%">
 </p>
 
 ---
